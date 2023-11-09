@@ -1,4 +1,4 @@
-# Concurrency_in_go
+# Concurrency_in_go
 ### 책 - go 동시성 프로그래밍
 
 ## 기간(미정)
