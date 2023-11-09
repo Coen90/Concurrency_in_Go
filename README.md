@@ -1,5 +1,5 @@
 # Concurrency_in_go
-### 책 - go 동시성 프로그래밍
+### 책 - [go 동시성 프로그래밍 - aladin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=195401629)
 
 ## 기간(미정)
 
