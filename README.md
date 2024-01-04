@@ -10,7 +10,7 @@
 
 | 코엔 | 승렬 | 민기 |
 |:---:|:---:|:---:|
-| [깃허브](https://github.com/Coen90) | [깃허브](https://github.com/Coen90) | [깃허브](https://github.com/mingkyme) | 
+| [깃허브](https://github.com/Coen90) | [깃허브](https://github.com/DSeung001) | [깃허브](https://github.com/mingkyme) | 
 
 
 ## 진행 방식(미정)
